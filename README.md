@@ -3,6 +3,8 @@
 🌱 I’m currently learning <b>MERN Stack</b>
 <br>
 📫 How to reach me <b>ayyashzamny@hotmail.com</b>
+<br>
+💫 I like to shoot birds with my camera 📸 #nikon
 
 --- 
 
