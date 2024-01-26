@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayyash </h1>
 <h3 align="center">"Seeking Software Engineering internship. Eager to contribute skills in a dynamic, innovative environment."</h3>
-- 🌱 I’m currently learning <b>MERN Stack</b>
-
-- 📫 How to reach me **ayyashzamny@hotmail.com**
+🌱 I’m currently learning <b>MERN Stack</b>
+📫 How to reach me <b>ayyashzamny@hotmail.com</b>
 
 --- 
 
