@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="/output/snake.svg" alt="Snake animation" />
+<img src="ayyashzamny/output/snake.svg" alt="Snake animation" />
 
 ###
