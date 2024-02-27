@@ -41,10 +41,5 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyashzamny&layout=compact&theme=" alt=ayyashzamny />
 
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayyashzamny/ayyashzamny/output/snake.svg" alt="Snake animation" />
 
 
