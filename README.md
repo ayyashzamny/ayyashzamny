@@ -36,15 +36,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
----
+<br>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyashzamny&layout=compact&theme=" alt=ayyashzamny />
 
----
-
-<br clear="both">
-
-<img src="ayyashzamny/output/snake.svg" alt="Snake animation" />
-
-###
