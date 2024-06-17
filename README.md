@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayyash </h1>
 <h3 align="center">"Seeking Software Engineering internship. Eager to contribute skills in a dynamic, innovative environment."</h3>
-🌱 I’m currently learning <b>MERN Stack</b>
+🌱 I’m currently learning <b>Laravel</b>
 <br>
-📫 How to reach me <b>ayyashzamny@hotmail.com</b>
+📫 How to reach me <b>ayyashzamny1@gmail.com</b>
 <br>
 💫 I like to shoot birds with my camera 📸 #nikon
 
