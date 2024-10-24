@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayyash </h1>
-<h3 align="center">" Software Enginner Intern who is Learning to Code the Future 👨‍💻"</h3>
+<h3 align="center">" Software Engineer Intern who is Learning to Code the Future 👨‍💻"</h3>
 🌱 I’m currently learning <b>.NET | Spring Boot</b>
 <br>
 📫 How to reach me <b>ayyashzamny1@gmail.com</b>
