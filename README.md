@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayyash </h1>
 <h3 align="center">" Software Engineer who is Learning to Code the Future 👨‍💻"</h3>
-🌱 I’m currently learning <b>.NET | Flutter</b>
+🌱 I’m currently learning <b>JAVA</b>
 <br>
 💫 I like to shoot birds with my camera 📸 #nikon
 
