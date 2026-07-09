@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayyash </h1>
-<h3 align="center">" Software Engineer who is Learning to Code the Future 👨‍💻"</h3>
+<h3 align="center">"Engineer who is Learning to Code the Future 👨‍💻"</h3>
 🌱 I’m currently learning <b>JAVA</b>
 <br>
 💫 I like to shoot birds with my camera 📸 #nikon
@@ -13,7 +13,12 @@
 ---
 
 <h3 align="left">Technologies I Actually Use:</h3>
-<p align="left">
+<p align="left"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ansible" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
